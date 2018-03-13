@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E45A547C205858030077FD23 /* HardLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45A547B205858030077FD23 /* HardLife.swift */; };
+		E45A547E205858CE0077FD23 /* Slav.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45A547D205858CE0077FD23 /* Slav.swift */; };
 		E45B32FD20554B44000FFB35 /* FinalRound.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45B32FC20554B43000FFB35 /* FinalRound.swift */; };
 		E45B330120554BCB000FFB35 /* Kapitalism.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45B330020554BCB000FFB35 /* Kapitalism.swift */; };
 		E45B330320554BF6000FFB35 /* Memes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45B330220554BF6000FFB35 /* Memes.swift */; };
@@ -15,6 +17,7 @@
 		E4978A5320555443002CD227 /* Knuckles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4978A5220555443002CD227 /* Knuckles.swift */; };
 		E4978A5520555539002CD227 /* MehMeme.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4978A5420555539002CD227 /* MehMeme.swift */; };
 		E4B64F7020552A5C0053D46E /* Rickrolled.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B64F6F20552A5C0053D46E /* Rickrolled.swift */; };
+		E4BBA2772058206000995489 /* DejaVu.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BBA2762058206000995489 /* DejaVu.swift */; };
 		E4BEDABA2054BFAE007AC5A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEDAB92054BFAE007AC5A6 /* AppDelegate.swift */; };
 		E4BEDABC2054BFAE007AC5A6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BEDABB2054BFAE007AC5A6 /* ViewController.swift */; };
 		E4BEDABF2054BFAE007AC5A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4BEDABD2054BFAE007AC5A6 /* Main.storyboard */; };
@@ -26,6 +29,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E45A547B205858030077FD23 /* HardLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardLife.swift; sourceTree = "<group>"; };
+		E45A547D205858CE0077FD23 /* Slav.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slav.swift; sourceTree = "<group>"; };
 		E45B32FC20554B43000FFB35 /* FinalRound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalRound.swift; sourceTree = "<group>"; };
 		E45B330020554BCB000FFB35 /* Kapitalism.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kapitalism.swift; sourceTree = "<group>"; };
 		E45B330220554BF6000FFB35 /* Memes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memes.swift; sourceTree = "<group>"; };
@@ -34,6 +39,7 @@
 		E4978A5220555443002CD227 /* Knuckles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Knuckles.swift; sourceTree = "<group>"; };
 		E4978A5420555539002CD227 /* MehMeme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MehMeme.swift; sourceTree = "<group>"; };
 		E4B64F6F20552A5C0053D46E /* Rickrolled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rickrolled.swift; sourceTree = "<group>"; };
+		E4BBA2762058206000995489 /* DejaVu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DejaVu.swift; sourceTree = "<group>"; };
 		E4BEDAB62054BFAE007AC5A6 /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4BEDAB92054BFAE007AC5A6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4BEDABB2054BFAE007AC5A6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +89,9 @@
 				E4F80B922055323E00537836 /* HahPranked.swift */,
 				E4C751FD2054FF4500E6662A /* Prank.swift */,
 				E4BEDABD2054BFAE007AC5A6 /* Main.storyboard */,
+				E45A547D205858CE0077FD23 /* Slav.swift */,
+				E45A547B205858030077FD23 /* HardLife.swift */,
+				E4BBA2762058206000995489 /* DejaVu.swift */,
 				E4978A5020555367002CD227 /* Communism.swift */,
 				E4978A5220555443002CD227 /* Knuckles.swift */,
 				E4978A5420555539002CD227 /* MehMeme.swift */,
@@ -172,12 +181,15 @@
 				E4BEDABC2054BFAE007AC5A6 /* ViewController.swift in Sources */,
 				E4978A5320555443002CD227 /* Knuckles.swift in Sources */,
 				E4F80B932055323E00537836 /* HahPranked.swift in Sources */,
+				E45A547C205858030077FD23 /* HardLife.swift in Sources */,
 				E4978A5520555539002CD227 /* MehMeme.swift in Sources */,
 				E45B330120554BCB000FFB35 /* Kapitalism.swift in Sources */,
 				E45B32FD20554B44000FFB35 /* FinalRound.swift in Sources */,
 				E4C752002054FFE800E6662A /* KnourMeme.swift in Sources */,
 				E4978A5120555367002CD227 /* Communism.swift in Sources */,
+				E4BBA2772058206000995489 /* DejaVu.swift in Sources */,
 				E4BEDABA2054BFAE007AC5A6 /* AppDelegate.swift in Sources */,
+				E45A547E205858CE0077FD23 /* Slav.swift in Sources */,
 				E45B330320554BF6000FFB35 /* Memes.swift in Sources */,
 				E4B64F7020552A5C0053D46E /* Rickrolled.swift in Sources */,
 				E4978A4F20554F90002CD227 /* MusicChoice.swift in Sources */,
